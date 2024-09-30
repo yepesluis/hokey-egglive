@@ -1,2 +1,1 @@
-# hokey-egglive
-practica github Egg Live
+# Migthy Ducks Hockey League
